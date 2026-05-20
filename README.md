@@ -1,4 +1,4 @@
-[![CI](https://github.com/philip95macdonald-cmd/ngo-stakeholder-stack/actions/workflows/ci.yml/badge.svg)](https://github.com/philip95macdonald-cmd/ngo-stakeholder-stack/actions)
+[![CI](https://github.com/martechbuilder/ngo-stakeholder-stack/actions/workflows/ci.yml/badge.svg)](https://github.com/martechbuilder/ngo-stakeholder-stack/actions)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![Python](https://img.shields.io/badge/python-%3E%3D3.10-blue)
 
@@ -65,7 +65,7 @@ ngo-stakeholder-stack/
 ### Setup
 
 ```bash
-git clone https://github.com/philip95macdonald-cmd/ngo-stakeholder-stack
+git clone https://github.com/martechbuilder/ngo-stakeholder-stack
 cd ngo-stakeholder-stack
 bash install.sh --with-deps
 cp .env.example .env && $EDITOR .env
